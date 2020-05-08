@@ -1,1 +1,5 @@
 /
+makan
+ayam
+enak
+bgt
